@@ -1,0 +1,12 @@
+/home/cristian/Source/SOLID/SOLID/bin/Debug/net8.0/SOLID.deps.json
+/home/cristian/Source/SOLID/SOLID/bin/Debug/net8.0/SOLID.dll
+/home/cristian/Source/SOLID/SOLID/bin/Debug/net8.0/SOLID.pdb
+/home/cristian/Source/SOLID/SOLID/obj/Debug/net8.0/SOLID.GeneratedMSBuildEditorConfig.editorconfig
+/home/cristian/Source/SOLID/SOLID/obj/Debug/net8.0/SOLID.AssemblyInfoInputs.cache
+/home/cristian/Source/SOLID/SOLID/obj/Debug/net8.0/SOLID.AssemblyInfo.cs
+/home/cristian/Source/SOLID/SOLID/obj/Debug/net8.0/SOLID.csproj.CoreCompileInputs.cache
+/home/cristian/Source/SOLID/SOLID/obj/Debug/net8.0/SOLID.sourcelink.json
+/home/cristian/Source/SOLID/SOLID/obj/Debug/net8.0/SOLID.dll
+/home/cristian/Source/SOLID/SOLID/obj/Debug/net8.0/refint/SOLID.dll
+/home/cristian/Source/SOLID/SOLID/obj/Debug/net8.0/SOLID.pdb
+/home/cristian/Source/SOLID/SOLID/obj/Debug/net8.0/ref/SOLID.dll
